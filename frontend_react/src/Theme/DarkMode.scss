@@ -1,0 +1,31 @@
+.dark_mode
+{
+    .light{
+        padding: 0.3rem;
+        border: none;
+        background: #f0a45d;
+        border-radius: 50%;
+        text-align: center;
+        color: white;
+    }
+
+    .dark{
+        padding: 0.3rem;
+        border: none;
+        background: #535a6b;
+        border-radius: 100%;
+        text-align: center;
+        color: white;
+    }
+
+    .dark__hide
+    {
+        display: none;
+    }
+
+    
+    .light__hide
+    {
+        display: none;
+    }
+}
